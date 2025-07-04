@@ -29,10 +29,10 @@ export default function RootLayout({
         className={`${fontSans.variable} ${fontSans.variable} antialiased`}
         
       >
-       <div className='relative flex min-h-screen flex-col bg-[#fde6cc]' >
+       <div className='relative flex min-h-screen flex-col bg-[#fde6cc  ]' >
          
         <Header />
-        <main className='flex-1'>{<Body/>}</main>
+        <main className='flex-1'>{children}</main>
         
         <Footer/>
        </div>
