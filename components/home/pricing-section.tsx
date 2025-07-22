@@ -81,7 +81,7 @@ const PricingCard = ({
 
 export default function PricingSection() {
   return (
-    <section className="bg-white py-16 px-4">
+    <section className="bg-[#fde6cc] py-16 px-4">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-center text-pink-600 font-bold text-xl mb-12">PRICING</h2>
         <div className="flex flex-col lg:flex-row items-center justify-center gap-8">
