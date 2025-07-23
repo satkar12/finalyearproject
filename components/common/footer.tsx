@@ -11,7 +11,7 @@ export default function Footer() {
 
         <div className="flex items-center space-x-6">
           <a
-            href="https://www.instagram.com/satkargautam/"
+            href="https://www.instagram.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-pink-500"
